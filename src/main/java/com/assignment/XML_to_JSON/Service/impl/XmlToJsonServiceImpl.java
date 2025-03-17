@@ -11,7 +11,6 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 
 @Service
-// @AllArgsConstructor
 @RequiredArgsConstructor
 @Log4j2
 public class XmlToJsonServiceImpl implements XmlToJsonService{
